@@ -9,5 +9,6 @@ Description: In this repository you will find links to overview slides and test 
 
 #### Demo ###
 1. Show interface
-2. Annotate a file by typing in the form - view <https://www.ncbi.nlm.nih.gov/sra/SRX5798593[accn]>
+2. View bioproject record https://www.ncbi.nlm.nih.gov/bioproject/PRJNA541092
+2. Annotate a file by typing in the form
 3. Show Import annotations for mice skin microbiota samples starting from an excel file
