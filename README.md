@@ -9,5 +9,5 @@ Description: In this repository you will find links to overview slides and test 
 
 #### Demo ###
 1. Show interface
-2. Annotate a file by typing in the form
-3. Import annotations for mice skin microbiota samples starting from an excel file
+2. Annotate a file by typing in the form - view <https://www.ncbi.nlm.nih.gov/sra/SRX5798593[accn]>
+3. Show Import annotations for mice skin microbiota samples starting from an excel file
