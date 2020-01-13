@@ -1,4 +1,4 @@
-# metagenote
+# metagenote training
 ## Using METAGENOTE for Annotation and Submission to NCBI’s Sequence Read Archive
 ### Visit <https://metagenote.niaid.nih.gov/>
 
